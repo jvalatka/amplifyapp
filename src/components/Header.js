@@ -23,8 +23,8 @@ export default function Header() {
         		<NavLink to="/jeremy" className={getClass}>
           			Jeremy
         		</NavLink>
-        		<NavLink to="/jessica" className={getClass}>
-          			Jessica
+        		<NavLink to="/jess" className={getClass}>
+          			Jess
         		</NavLink>
 			</nav>
 		</header>

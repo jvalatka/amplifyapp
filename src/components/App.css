@@ -66,6 +66,17 @@ nav a:hover,
   margin-bottom: 2em;
 }
 
+.img-inset {
+  float: left;
+  width: 20%;
+  border-radius:  0.35em;
+  margin-right: 1em;
+}
+
+.img-linkedin {
+  float:  left;
+  margin-right: 1em;
+}
 
 /* layout */
 

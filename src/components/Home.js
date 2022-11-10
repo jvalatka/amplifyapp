@@ -23,7 +23,7 @@ export default function Home({ title }) {
         Jeremy is the filmmaker and Smash Brothers enthusiast.
       </p>
       <p>
-        Jessica is the artist, musician, and future sustainability engineer.
+        Jess is the artist, musician, and future sustainability engineer.
       </p>
       <p>
         Feel free to look around!
