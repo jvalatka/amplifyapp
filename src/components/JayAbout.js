@@ -1,5 +1,5 @@
-import featImg from "../assets/Jay.JPG";
-import linkedinImg from "../assets/linkedin.JPG";
+import featImg from "../assets/Jay.jpg";
+import linkedinImg from "../assets/linkedin.jpg";
 
 export default function JayAbout() {
   return (

@@ -1,4 +1,4 @@
-import linkedinImg from "../assets/linkedin.JPG"
+import linkedinImg from "../assets/linkedin.jpg"
 
 export default function Jeremy() {
   return (
