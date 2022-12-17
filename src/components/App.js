@@ -5,10 +5,8 @@ import Header from "./Header";
 import Home from "./Home";
 import Jay from "./Jay";
 import JayAbout from "./JayAbout";
-import JayRecordings from "./JayRecordings";
 import Jacquie from "./Jacquie";
 import JacquieAbout from "./JacquieAbout";
-import JacquieResume from "./JacquieResume";
 import Jeremy from "./Jeremy";
 import Jess from "./Jess";
 
@@ -19,11 +17,9 @@ function App() {
             <Routes>
               <Route path="/" element={<Home title="Welcome to Valatka.com" />} />
               <Route path="jay" element={<Jay />}>
-                <Route path="recordings" element={<JayRecordings />} />
                 <Route index element={<JayAbout />} />
               </Route>
               <Route path="jacquie" element={<Jacquie />}>
-                <Route path="resume" element={<JacquieResume />} />
                 <Route index element={<JacquieAbout />} />
               </Route>
               <Route path="jeremy" element={<Jeremy />} />
