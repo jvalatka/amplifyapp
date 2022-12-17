@@ -31,6 +31,11 @@ export default function JacquieAbout() {
         dancing, cooking and much, much more. Jacqueline, her husband Joseph, and their two children reside 
         in Salem, Massachusetts.
       </p>
+
+      <hr />
+      <p>
+        Follow Jacquie on
+      </p>
       <a href="https://www.linkedin.com/in/jacquelinevalatka/" target="_blank" rel="noreferrer">
         <img
           className="img-linkedin"

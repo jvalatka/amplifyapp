@@ -74,8 +74,9 @@ nav a:hover,
 }
 
 .img-linkedin {
-  float:  left;
-  margin-right: 1em;
+  height: 40px;
+  width: 40px;
+  margin: 0;
 }
 
 /* layout */

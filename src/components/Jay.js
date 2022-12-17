@@ -10,7 +10,6 @@ export default function Jay() {
             About
           </Button>
         </Link>
-        {' '}
       </>
       <Outlet />
     </div>

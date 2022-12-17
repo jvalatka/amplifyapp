@@ -25,7 +25,8 @@ export default function JayAbout() {
       <p>
         Jay has grown up with Microsoft-based systems, starting with those heady days of MS-DOS and continuing onward 
         with the latest Windows operating system. However, he also uses open-source solutions frequently, with most of 
-        his work done on Ubuntu Linux.
+        his work done on Ubuntu Linux.  He has recently taken forays into cloud computing and earned the Amazon Web
+        Services Cloud Developer Associate Certification.
       </p>
       <p>
         Jay also loves exploring all kinds of music. He used to be a radio deejay! He has also written a screenplay 
@@ -35,6 +36,11 @@ export default function JayAbout() {
         Jay graduated from (what used to be) Daniel Webster College with a Bachelor of Science degree in Computer Science. He, his wife 
         Jacquie, and their two children currently reside in Salem, Massachusetts.
       </p>
+      <hr />
+      <p>
+        Follow Jay on
+      </p>
+
       <a href="https://www.linkedin.com/in/valatka/" target="_blank" rel="noreferrer">
       <img
         className="img-linkedin"

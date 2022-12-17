@@ -9,11 +9,6 @@ export default function Jacquie() {
           <Button variant="" size="lg">
             About
           </Button>
-        </Link>{' '}
-        <Link to="/jacquie/resume">
-          <Button variant="" size="lg">
-            Resume
-          </Button>
         </Link>
       </>
       <Outlet />
